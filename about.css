@@ -143,6 +143,14 @@ footer img {
     .inf p {
         font-size:12px;
     }
+
+    main p {
+        font-size:12px;       
+    }
+
+    .mainRight {
+        margin: 10px;
+    }
 }
 
 @media (max-width:400px) {

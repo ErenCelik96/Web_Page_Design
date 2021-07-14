@@ -140,6 +140,10 @@ footer img {
         flex-direction: column;
     }
 
+    #form {
+        margin-bottom: 20px;
+    }
+
     nav {
         height:150px;
     }
